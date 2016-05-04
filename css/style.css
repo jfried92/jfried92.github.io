@@ -1,7 +1,8 @@
-.banner{
+.banner .jumobotron{
 	text-align: center;
 	height:100%;
 	background-image: url("img/background.png");
 	background-repeat: none;
 	background-size: cover;
 }
+
