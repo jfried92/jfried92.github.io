@@ -1,3 +1,10 @@
+body{
+	height: 100%;
+	width: 100%;
+}
+
+
+
 .intro-section{
 	text-align: center;
 	height:100%;
