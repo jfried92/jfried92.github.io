@@ -8,17 +8,23 @@ html{
 	width: 100%;
 }
 
-
-.intro-section{
-	background-image: url("../img/background.png");
-	background-repeat: none;
-	background-size: cover;
+.intro{
+    height: 100%;
+    display: table;
+    width:100%;
+    text-align: center;
+    background-color: #00ace6;
 }
 
-.jumbotron{
-	height: 100%;
+.intro .intro-body{
+    display: table-cell;
+    vertical-align: middle;
 }
 
-.intro-section h1{
-	color: #ffffff;
+hr{
+    max-width: 50px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 3px;
 }
