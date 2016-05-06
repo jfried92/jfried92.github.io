@@ -13,18 +13,25 @@ html{
     display: table;
     width:100%;
     text-align: center;
-    background-color: #00ace6;
+    
 }
 
 .intro .intro-body{
     display: table-cell;
     vertical-align: middle;
+    background-color: #00ace6;
 }
 
-hr{
-    max-width: 50px;
+.intro .intro-body hr{
+    max-width: 75px;
     margin:auto;
     margin-top: 20px;
     margin-bottom: 20px;
     border-width: 3px;
+    border-color:#333;
+}
+
+.intro .intro-body .images{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
